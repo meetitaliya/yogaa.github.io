@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chakri Recipe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .recipe {
+            width: 80%;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="recipe">
+        <h1>Chakri Recipe</h1>
+        <h2>Ingredients:</h2>
+        <ul>
+            <li>1 cup rice flour</li>
+            <li>1/4 cup besan (gram flour)</li>
+            <li>1/4 teaspoon turmeric powder</li>
+            <li>1/4 teaspoon red chili powder</li>
+            <li>1/4 teaspoon ajwain (carom seeds)</li>
+            <li>1/4 teaspoon cumin seeds</li>
+            <li>A pinch of asafoetida (hing)</li>
+            <li>1 tablespoon oil</li>
+            <li>Water (as needed)</li>
+            <li>Salt to taste</li>
+            <li>Oil for deep frying</li>
+        </ul>
+        <h2>Instructions:</h2>
+        <ol>
+            <li>In a mixing bowl, combine rice flour, besan, turmeric powder, red chili powder, ajwain, cumin seeds, asafoetida, and salt.</li>
+            <li>Heat 1 tablespoon of oil until it's hot and pour it over the dry mixture. Mix well to incorporate the oil evenly.</li>
+            <li>Add water little by little and knead the mixture into a smooth and stiff dough. The dough should be non-sticky.</li>
+            <li>Grease a chakri maker or press with oil and insert the star-shaped disc into it.</li>
+            <li>Take a portion of the dough and place it inside the chakri maker.</li>
+            <li>Press the chakri maker to form spiral-shaped chakris on a greased surface or parchment paper.</li>
+            <li>Heat oil in a deep pan for frying.</li>
+            <li>Gently lift the formed chakris and carefully place them in the hot oil. Fry on medium heat until they turn golden brown and crispy.</li>
+            <li>Remove the fried chakris from the oil and drain excess oil on paper towels.</li>
+            <li>Allow the chakris to cool down before storing them in an airtight container.</li>
+            <li>Your crispy and savory Chakris are ready to be enjoyed as a popular Indian snack!</li>
+        </ol>
+        <p>Chakri is a spiral-shaped savory snack often enjoyed during festivals and special occasions.</p>
+    </div>
+</body>
+</html>

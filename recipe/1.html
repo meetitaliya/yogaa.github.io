@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delicious Recipes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #f8f8f8;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+        }
+
+        .featured {
+            padding: 20px;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .recipe-card {
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+            flex-basis: calc(33.33% - 20px);
+            box-sizing: border-box;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Delicious Recipes</h1>
+        <p>Your Ultimate Recipe Destination</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Recipes</a>
+        <a href="#">Cooking Tips</a>
+        <a href="#">Community</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <section class="featured">
+        <div class="recipe-card">
+            <img src="recipe1.jpg" alt="Creamy Garlic Parmesan Pasta">
+            <h3>Creamy Garlic Parmesan Pasta</h3>
+            <p>A comforting pasta dish with a rich and creamy sauce.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="recipe2.jpg" alt="Grilled Mediterranean Veggie Skewers">
+            <h3><img src="imges/aloopuri.jpeg" alt=""></h3>
+            <p>Fresh vegetables marinated and grilled to perfection.</p>
+        </div>
+        <div class="recipe-card">
+            <img src="recipe3.jpg" alt="Decadent Chocolate Lava Cake">
+            <h3>Decadent Chocolate Lava Cake</h3>
+            <p>Indulge your sweet tooth with this heavenly dessert.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Delicious Recipes. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>

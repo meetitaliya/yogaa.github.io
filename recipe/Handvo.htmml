@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handvo Recipe</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .recipe {
+            width: 80%;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        p {
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <div class="recipe">
+        <h1>Handvo Recipe</h1>
+        <h2>Ingredients:</h2>
+        <ul>
+            <li>1 cup rice</li>
+            <li>1/4 cup toor dal (pigeon peas)</li>
+            <li>1/4 cup chana dal (split chickpeas)</li>
+            <li>1/4 cup urad dal (split black gram)</li>
+            <li>1/4 cup moong dal (split green gram)</li>
+            <li>1/4 cup curd (yogurt)</li>
+            <li>1/4 teaspoon turmeric powder</li>
+            <li>1 teaspoon red chili powder</li>
+            <li>1 teaspoon ginger paste</li>
+            <li>1 teaspoon green chili paste</li>
+            <li>2 tablespoons oil</li>
+            <li>1 teaspoon mustard seeds</li>
+            <li>1 teaspoon cumin seeds</li>
+            <li>1/2 teaspoon asafoetida (hing)</li>
+            <li>A pinch of baking soda</li>
+            <li>Curry leaves</li>
+            <li>Salt to taste</li>
+        </ul>
+        <h2>Instructions:</h2>
+        <ol>
+            <li>Wash the rice and dals together and soak them in water for around 4-5 hours.</li>
+            <li>Drain the soaked rice and dals and grind them to a smooth batter using minimal water.</li>
+            <li>Add curd, turmeric powder, red chili powder, ginger paste, green chili paste, and salt to the batter. Mix well.</li>
+            <li>Cover the batter and let it ferment for about 6-8 hours or overnight.</li>
+            <li>In a separate pan, heat oil and add mustard seeds, cumin seeds, asafoetida, and curry leaves. Let them splutter.</li>
+            <li>Add the tempering to the fermented batter and mix well.</li>
+            <li>Add baking soda and mix until the batter is light and frothy.</li>
+            <li>Preheat the oven to 350°F (175°C) or use a stovetop pot for cooking.</li>
+            <li>Pour the batter into a greased pan and bake in the preheated oven for 30-40 minutes, or cook on the stovetop until the handvo is cooked through and golden brown on top.</li>
+            <li>Allow the handvo to cool down before slicing and serving.</li>
+            <li>Your delicious and nutritious Handvo is ready to be enjoyed as a wholesome snack or meal!</li>
+        </ol>
+        <p>Handvo is a savory Gujarati dish made from mixed lentils and rice, often baked or cooked on the stovetop.</p>
+    </div>
+</body>
+</html>
